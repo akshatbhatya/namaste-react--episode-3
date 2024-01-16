@@ -1,5 +1,31 @@
 {
   "dependencies": {
-    "parcel": "^2.11.0"
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "namaste-react--episode-3",
+  "description": "learning laying of foundation",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatbhatya/namaste-react--episode-3.git"
+  },
+  "keywords": [
+    "parcel",
+    "react"
+  ],
+  "author": "akshat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshatbhatya/namaste-react--episode-3/issues"
+  },
+  "homepage": "https://github.com/akshatbhatya/namaste-react--episode-3#readme",
+  "devDependencies": {
+    "process": "^0.11.10"
   }
 }
